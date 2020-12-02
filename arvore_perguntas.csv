@@ -1,0 +1,80 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;Bathrooms menor ou igual 1.5?;SIM;2;NÃO;3
+2;Grade menor ou igual 1.5?;SIM;4;NÃO;5
+3;Condition menor ou igual 2.5?;SIM;6;NÃO;7
+4;Floors menor ou igual 2.5?;SIM;8;NÃO;9
+5;Condition menor ou igual 1.5?;SIM;10;NÃO;11
+6;Grade menor ou igual 1.5?;SIM;12;NÃO;13
+7;SQFT_Living menor ou igual 2?;SIM;14;NÃO;15
+8;Condition menor ou igual 2.5?;SIM;16;NÃO;17
+9;NÓ FOLHA;A Casa é Barata;; ;
+10;NÓ FOLHA;A Casa é Cara;; ;
+11;SQFT_Above menor ou igual 2?;SIM;18;NÃO;19
+12;NÓ FOLHA;A Casa é Cara;; ;
+13;Floors menor ou igual 2.5?;SIM;20;NÃO;21
+14;Floors menor ou igual 2.5?;SIM;22;NÃO;23
+15;Floors menor ou igual 2.5?;SIM;24;NÃO;25
+16;NÓ FOLHA;A Casa é Barata;; ;
+17;NÓ FOLHA;A Casa é Barata;; ;
+18;SQFT_Living menor ou igual 2?;SIM;26;NÃO;27
+19;NÓ FOLHA;A Casa é Cara;; ;
+20;SQFT_Living menor ou igual 2?;SIM;28;NÃO;29
+21;Bathrooms menor ou igual 2.5?;SIM;30;NÃO;31
+22;Grade menor ou igual 1.5?;SIM;32;NÃO;33
+23;SQFT_Above menor ou igual 2?;SIM;34;NÃO;35
+24;Grade menor ou igual 2.5?;SIM;36;NÃO;37
+25;SQFT_Above menor ou igual 2?;SIM;38;NÃO;39
+26;Floors menor ou igual 2.5?;SIM;40;NÃO;41
+27;NÓ FOLHA;A Casa é Barata;; ;
+28;Bathrooms menor ou igual 2.5?;SIM;42;NÃO;43
+29;NÓ FOLHA;A Casa é Barata;; ;
+30;SQFT_Living menor ou igual 2?;SIM;44;NÃO;45
+31;Grade menor ou igual 2.5?;SIM;46;NÃO;47
+32;Bathrooms menor ou igual 2.5?;SIM;48;NÃO;49
+33;Bathrooms menor ou igual 2.5?;SIM;50;NÃO;51
+34;Grade menor ou igual 2.5?;SIM;52;NÃO;53
+35;Grade menor ou igual 2.5?;SIM;54;NÃO;55
+36;NÓ FOLHA;A Casa é Cara;; ;
+37;NÓ FOLHA;A Casa é Cara;; ;
+38;NÓ FOLHA;A Casa é Barata;; ;
+39;Grade menor ou igual 2.5?;SIM;56;NÃO;57
+40;Condition menor ou igual 2.5?;SIM;58;NÃO;59
+41;Condition menor ou igual 2.5?;SIM;60;NÃO;61
+42;NÓ FOLHA;A Casa é Barata;; ;
+43;Grade menor ou igual 2.5?;SIM;62;NÃO;63
+44;NÓ FOLHA;A Casa é Cara;; ;
+45;NÓ FOLHA;A Casa é Barata;; ;
+46;SQFT_Above menor ou igual 2?;SIM;64;NÃO;65
+47;SQFT_Above menor ou igual 2?;SIM;66;NÃO;67
+48;NÓ FOLHA;A Casa é Barata;; ;
+49;NÓ FOLHA;A Casa é Cara;; ;
+50;NÓ FOLHA;A Casa é Cara;; ;
+51;Grade menor ou igual 2.5?;SIM;68;NÃO;69
+52;NÓ FOLHA;A Casa é Barata;; ;
+53;NÓ FOLHA;A Casa é Barata;; ;
+54;NÓ FOLHA;A Casa é Cara;; ;
+55;Bathrooms menor ou igual 2.5?;SIM;70;NÃO;71
+56;NÓ FOLHA;A Casa é Cara;; ;
+57;NÓ FOLHA;A Casa é Cara;; ;
+58;NÓ FOLHA;A Casa é Barata;; ;
+59;Grade menor ou igual 2.5?;SIM;72;NÃO;73
+60;NÓ FOLHA;A Casa é Cara;; ;
+61;NÓ FOLHA;A Casa é Barata;; ;
+62;NÓ FOLHA;A Casa é Cara;; ;
+63;NÓ FOLHA;A Casa é Barata;; ;
+64;NÓ FOLHA;A Casa é Barata;; ;
+65;NÓ FOLHA;A Casa é Cara;; ;
+66;SQFT_Living menor ou igual 2?;SIM;74;NÃO;75
+67;SQFT_Living menor ou igual 2?;SIM;76;NÃO;77
+68;NÓ FOLHA;A Casa é Cara;; ;
+69;SQFT_Above menor ou igual 2?;SIM;78;NÃO;79
+70;NÓ FOLHA;A Casa é Cara;; ;
+71;NÓ FOLHA;A Casa é Cara;; ;
+72;NÓ FOLHA;A Casa é Cara;; ;
+73;NÓ FOLHA;A Casa é Barata;; ;
+74;NÓ FOLHA;A Casa é Cara;; ;
+75;NÓ FOLHA;A Casa é Cara;; ;
+76;NÓ FOLHA;A Casa é Barata;; ;
+77;NÓ FOLHA;A Casa é Barata;; ;
+78;NÓ FOLHA;A Casa é Cara;; ;
+79;NÓ FOLHA;A Casa é Cara;; ;
